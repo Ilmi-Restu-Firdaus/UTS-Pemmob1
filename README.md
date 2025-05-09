@@ -12,7 +12,7 @@
 Aplikasi Android ini dibuat untuk menyelesaikan studi kasus UTS yang telah diberikan.  
 Penjelasan lengkap mengenai proyek ini dapat dilihat pada laporan berikut:
 
-📄 [ PDF Studi Kasus UTS](https://drive.google.com/file/d/1WS9MZo-KAnhkjWbRwKHmAJJ5hommABjp/view?usp=drive_link))
+📄 [ PDF Studi Kasus UTS](https://drive.google.com/file/d/1fkdY1yP9Z2w2IyS0QiBlQMg56uz0KBl1/view?usp=drive_link))
 
 Laporan tersebut dikumpulkan melalui platform E-Learning.
 
